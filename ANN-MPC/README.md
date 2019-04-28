@@ -3,5 +3,5 @@
 [Dataset.pdf](Dataset/Dataset.pdf). 
 
 * In [InputFeatures](Dataset/InputFeatures) Folder, we have stored all instances,
-(i.e. [Input_8Features](Dataset/InputFeatures/Input_8Features) or [Input_8FeaturesWithDelay](Dataset/InputFeatures/Input_8FeaturesWithDelay) and their targets (i.e., [Targets](Dataset/InputFeatures/Targets)) which will be then called by [prepareData_forANN.m](prepareData_forANN.m), in order to together and convert these data in the proper form of the neural network for training the proposed ANN using [ANN_training.m](ANN_training.m).    
+(i.e. [Input_8Features](Dataset/InputFeatures/Input_8Features) or [Input_8FeaturesWithDelay](Dataset/InputFeatures/Input_8FeaturesWithDelay)) and their targets (i.e., [Targets](Dataset/InputFeatures/Targets)) which will be then called by [prepareData_forANN.m](prepareData_forANN.m), in order to together and convert these data in the proper form of the neural network for training the proposed ANN using [ANN_training.m](ANN_training.m).    
 
