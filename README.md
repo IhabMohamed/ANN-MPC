@@ -18,7 +18,7 @@ of Three-Phase Inverter With an Output LC Filter](https://ieeexplore.ieee.org/ab
 ```
 @article{mohamed2019neural,
   title={A Neural-Network-Based Model Predictive Control of Three-Phase Inverter With an Output LC Filter},
-  author={Mohamed, Ihab S and Rovetta, Stefano and Diab, Ahmed A Zaki and Do, Ton Duc},
+  author={Mohamed, Ihab S and Rovetta, Stefano and Do, Ton Duc and Dragicevic, Tomislav and Diab, Ahmed A Zaki },
   journal={IEEE Access},
   year={2019}
 }
