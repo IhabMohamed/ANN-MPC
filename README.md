@@ -13,13 +13,13 @@ The proposed ANN-based control strategy undergoes two main steps:
 If you use the ANN-MPC or dataset in an academic context, please cite the following publication:
 
 Paper: [A Neural-Network-Based Model Predictive Control
-of Three-Phase Inverter With an Output LC Filter](https://arxiv.org/pdf/1902.09964.pdf)
+of Three-Phase Inverter With an Output LC Filter](https://ieeexplore.ieee.org/abstract/document/8819887)
 
 ```
 @article{mohamed2019neural,
   title={A Neural-Network-Based Model Predictive Control of Three-Phase Inverter With an Output LC Filter},
   author={Mohamed, Ihab S and Rovetta, Stefano and Diab, Ahmed A Zaki and Do, Ton Duc},
-  journal={arXiv preprint arXiv:1902.09964},
+  journal={IEEE Access},
   year={2019}
 }
 ```
